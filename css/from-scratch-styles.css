@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin-left: 5px;
+  margin-bottom: 30 px;
+}
+  /* Container styles
+
+.container {
+  width: 80%;
+  margin: 20px auto; 
+}
+*/
+
+  
+  /* Header styles */
+.header {
+  text-align: center;
+  font-size: 40px ;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  margin-top: 10px ;
+}
+  
+.background {
+  background-image: url(https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/307439800_2341938982651472_2129366018105264072_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=WV7gsRG8EmAAX8fQeah&_nc_ht=scontent-sjc3-1.xx&oh=00_AfD9DeGYBHngOQ7L2Ta0NBfGD2fyWrH4ifb_-2Ujo_roFg&oe=657E7E03);
+  background-position: center;
+  height: 250px;
+
+}
+.header h1 {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header h2 {
+  font-size: 1.5em;
+  margin-top: 50px ;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Section heading styles */
+.section-heading {
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* List styles */
+.li {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 0;
+  margin: 0;
+  margin-left: 100px ;
+}
+/* List item styles */
+.ol {
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+/* Links */
+a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.common {
+position: absolute;
+}
+
+.rightmenu {
+  top: 350px;
+  right: 125px;
+  width: 100px;
+  bottom: 39px;
+  padding-left: 5px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 25px;
+}
